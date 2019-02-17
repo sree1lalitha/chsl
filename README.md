@@ -26,6 +26,6 @@ Where, ASL = Total Number of words/Total number of sentences
        
        30-49	Difficult           college
        
-       0-29	Very Confusing          college graduate
+       0-29	Very Confusing      college graduate
        
  To find the syllable count, funtions are defined by using the unicodes of the vowels, consonants etc.,of the languages Hindi and Telugu.
