@@ -8,7 +8,6 @@ Flesch Reading Ease = 206.835-(1.015xASL)-(84.5xASW)
 and Flesch-kincaid Grade-Level = (0.39xASL)+(11.8XASW)-15.59
 
 Where, ASL = Total Number of words/Total number of sentences
-
        ASW = Total syllable count/number of words.
        
        The score levels and grade level should be as below. For Hindi text the score should be >150.
