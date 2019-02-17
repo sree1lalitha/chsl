@@ -1,14 +1,16 @@
 This is all about analysing the text complexity in the levels of the Hindi and Telugu Stories.
 
 For this, I had choosen TextBlob library to read the text.
-To check the readablity Flesch Reading Ease formula and for the grade leve Flisch-Kincaid Grade level has been used. These are the formulas to them.
+To check the readablity Flesch Reading Ease formula and to find the grade level, Flisch-Kincaid Grade level has been used. These are the formulas to them.
 
 Flesch Reading Ease = 206.835-(1.015xASL)-(84.5xASW)
 
 and Flesch-kincaid Grade-Level = (0.39xASL)+(11.8XASW)-15.59
 
 Where, ASL = Total Number of words/Total number of sentences
+
        ASW = Total syllable count/number of words.
+       
        The score levels and grade level should be as below. For Hindi text the score should be >150.
        
        Score	Difficulty          School level
